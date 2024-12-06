@@ -1,0 +1,14 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos temporales de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de compilación
+build/
+dist/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
